@@ -1,0 +1,37 @@
+// Main Container
+.top__bar {
+    background-color: #2B2D36;
+    height: 2.375rem;
+    display: flex;
+
+// contains details about the sesion
+    .header__info {
+        p {
+            color: #878973;
+        }
+        a {
+            color: #fff;
+        }
+        .user__icon {
+            color: #fff;
+        }
+        .config__icon {
+            color: #878973;
+        }
+    }
+   
+// show the products added to the shopping bag
+    .shopping__bag {
+
+        .shopping__bag {
+            color: #fff;
+        }
+        a {
+            text-decoration: none;
+            span {
+                color: #fff;
+                
+            }
+        }      
+    }
+}
